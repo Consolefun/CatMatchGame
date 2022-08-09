@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CatMatchGame/static/css/main.c2f5dd64.css",
+    "main.js": "/CatMatchGame/static/js/main.4eb64c61.js",
+    "static/js/787.d1e7df7c.chunk.js": "/CatMatchGame/static/js/787.d1e7df7c.chunk.js",
+    "index.html": "/CatMatchGame/index.html",
+    "main.c2f5dd64.css.map": "/CatMatchGame/static/css/main.c2f5dd64.css.map",
+    "main.4eb64c61.js.map": "/CatMatchGame/static/js/main.4eb64c61.js.map",
+    "787.d1e7df7c.chunk.js.map": "/CatMatchGame/static/js/787.d1e7df7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2f5dd64.css",
+    "static/js/main.4eb64c61.js"
+  ]
+}
