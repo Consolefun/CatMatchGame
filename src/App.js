@@ -124,7 +124,7 @@ const onNumberClick = (number, currentStatus) => {
   return(
     <div className="game">
       <div className="help">
-        Pick 1 or more numbers that sum to the number of stars
+        Pick 1 or more numbers that sum to the number of MEOW
       </div>
       <div className="body">
         <div className="left">
