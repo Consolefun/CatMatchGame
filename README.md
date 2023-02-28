@@ -1,5 +1,5 @@
 # Link to access the game. Hope you like it :)!
-https://github.com/Consolefun/CatMatchGame/settings/pages
+https://consolefun.github.io/CatMatchGame/
 
 
 
